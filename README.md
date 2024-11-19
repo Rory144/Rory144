@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 
 
+## I code with 
+![Badge de Python](https://img.shields.io/badge/Python-3.9-blue)
+![Badge de JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
+
 ### 🌟 Featured Projects
 - [Project Name](https://github.com/your-username/project-repo): Brief description of the project.
 - [Another Project](https://github.com/your-username/another-repo): Description of what it does.

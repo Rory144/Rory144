@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Rosell Martín, a passionate theoretical chemist from Spain. 
 <!--
 **Rory144/Rory144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,8 @@
-## Hi there 👋
+<div id="header" align= "center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNpeTdsOWh6NnlqeTkzYnhjeHdzOXgxbmc3eWh5MHUwOXV6c2QydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9lHsP26ijVJwylXsff/giphy.gif" />
+</div>
 
+## Hi there 👋
 I'm Rosell Martín, a passionate theoretical chemist from Spain. 
 <!--
 **Rory144/Rory144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,13 +22,8 @@ Here are some ideas to get you started:
 
 ### 🚀 Technologies & Tools:
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 
-
-## I code with 
-![Badge de Python](https://img.shields.io/badge/Python-3.9-blue)
-![Badge de JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 
 ### 🌟 Featured Projects

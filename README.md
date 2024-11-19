@@ -1,9 +1,9 @@
 <div id="header" align= "center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNpeTdsOWh6NnlqeTkzYnhjeHdzOXgxbmc3eWh5MHUwOXV6c2QydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9lHsP26ijVJwylXsff/giphy.gif" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR6NXY4emdjd2RvcmxqZjlubmxkdml5OWZ0c3lyM3J4MndzOGg1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bEc0Vgf1Bf4D06D1UV/giphy.gif" width="200"/>
+  <h1 align="center"> Hi 👋 I'm Rory </h1>
+  <h3 align="center"> A passionate theoretical chemist from Spain. I like to learn different programming languages in various fields, 🌱. Always active,⚡. </h3>
 </div>
 
-## Hi there 👋
-I'm Rosell Martín, a passionate theoretical chemist from Spain. 
 <!--
 **Rory144/Rory144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,24 +19,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### 🚀 Technologies & Tools:
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-
-
-
-### 🌟 Featured Projects
-- [Project Name](https://github.com/your-username/project-repo): Brief description of the project.
-- [Another Project](https://github.com/your-username/another-repo): Description of what it does.
-
-### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+---
+### About me: 
+-
+-
+-
+-
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact)
+<div align= "left">
+  <h3> 🚀 Technologies & Tools: </h3>
+  <div>
+    <img scr="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img scr="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img scr="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
+    <img scr="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+    <img scr="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img scr="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+    <img scr="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MYSQL" alt="mysql" width="40" height="40"/>&nbsp;
+    <img scr="https://github.com/devicons/devicon/blob/master/icons/fortran/fortran-original.svg" title="Fortran90" alt="Fortran90" width="40" height="40"/>
+  </div>
+</div>
 
-![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-🚀 I’m currently working on: [Cool Project](https://github.com/your-username/cool-project)  
-🌱 I’m learning: [React](https://reactjs.org/)  
+
+

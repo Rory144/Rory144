@@ -4,27 +4,15 @@
   <h3 align="center"> A passionate theoretical Chemist and Computational Modelling 🧑‍💻 originally from Spain. I like to learn different programming languages in various fields, 🌱. Always active,⚡. </h3>
 </div>
 
-<!--
-**Rory144/Rory144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ---
-### 🤖 About me: 
--
--
--
--
+### 🤖 About me:
+- 🔬 I am a **Theoretical Chemist** specializing in **Computational Modelling**, combining science and programming to solve complex problems.  
+- 💻 I enjoy working on **multidisciplinary projects**, learning **new programming languages**, and exploring diverse fields like data science and web development.  
+- 🌍 Originally from Spain, I love connecting with a global community of developers and researchers.  
+- 🧠 I am always curious and eager to learn more about **machine learning**, **numerical simulations**, and **optimization techniques**.  
+- 🌱 In my free time, I like contributing to open-source projects, automating workflows, and experimenting with cutting-edge tools.  
+- ⚡ Fun fact: I'm a **fitness enthusiast**, a coffee lover ☕, and a problem-solving addict.  
+
 
 <div align= "left">
   <h3> 🛠️ Languages & Tools: </h3>

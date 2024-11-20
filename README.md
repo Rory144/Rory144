@@ -31,7 +31,7 @@
 </div>
 
 ---
-### 📊 My Stats: 
+### 📊 Githyb Analytics: 
 <div align="center">
   <a>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Rory144&theme=gotham&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=499&card_height=198)](https://git.io/streak-stats">

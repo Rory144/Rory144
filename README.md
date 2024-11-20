@@ -1,7 +1,7 @@
 <div id="header" align= "center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR6NXY4emdjd2RvcmxqZjlubmxkdml5OWZ0c3lyM3J4MndzOGg1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bEc0Vgf1Bf4D06D1UV/giphy.gif" width="200"/>
   <h1 align="center"> Hi 👋 I'm Rory </h1>
-  <h3 align="center"> A passionate theoretical Chemist and Computational Modelling 🧑‍💻 originally from Spain. I like to learn different programming languages in various fields, 🌱. Always active,⚡. </h3>
+  <h3 align="center"> A passionate Theoretical Chemist and Computational Modelling 🧑‍💻 originally from Spain. I like to learn different programming languages in various fields, 🌱. Always active,⚡. </h3>
 </div>
 
 ---

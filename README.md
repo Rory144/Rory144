@@ -32,7 +32,17 @@
 
 ---
 ### 📊 My Stats: 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rory144&theme=iceberg&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=499&card_height=198)](https://git.io/streak-stats)
-![Rory144's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rory144&show_icons=true&theme=tokyonight)
+<div align="center">
+  <a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rory144&theme=gotham&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=499&card_height=198)](https://git.io/streak-stats">
+  </a>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rory144&layout=compact)
+<div align="center">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Rory144&show_icons=true&theme=gotham" width="500">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rory144&layout=compact&theme=gotham" width="380">
+  </a>
+</div>
+
+

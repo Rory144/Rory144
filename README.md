@@ -33,9 +33,7 @@
 
 
 ---
-
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
-
+<!--https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg-->
 ---
 ### 📊 Github Analytics: 
 <div align="center">
